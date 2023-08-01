@@ -14,7 +14,7 @@ Typical Device Breakpoints
         background-image: linear-gradient(to top, #49a09d, #5f2c82)
     }
     section#login {
-        width: 90vw;
+        width: 80vw;
 
     }
     section#login > div#imagem{
@@ -26,7 +26,7 @@ Typical Device Breakpoints
     section#login > div#formulario{
         float: right;
         width: 70%;
-        height: 100%;
+      /*  height: 100%;*/
     }
     div#formulario > h1{
         font-size: 1.5em;
